@@ -1,0 +1,3 @@
+﻿  CppVhdAPI.cpp
+c:\users\purnanand.kumar\desktop\demo various vhd api usage (cppvhdapi)\c++\cppvhdapi\cppvhdapi.cpp(44): warning C4477: 'wprintf' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'PVOID'
+c:\users\purnanand.kumar\desktop\demo various vhd api usage (cppvhdapi)\c++\cppvhdapi\cppvhdapi.cpp(679): error C2094: label '_test_exit' was undefined
